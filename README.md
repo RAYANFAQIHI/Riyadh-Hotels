@@ -1,5 +1,7 @@
 # Riyadh Hotels Analysis 🌙
 
+<img src="[https://github.com/user-attachments/assets/...](https://github.com/RAYANFAQIHI/Riyadh-Hotels/blob/main/Screenshot%202026-03-14%20022319.png
+)" width="1000" />
 
 A data analysis project on **Riyadh hotels** using **Python** and **Power BI**, presented with a Ramadan-inspired dashboard design.
 
